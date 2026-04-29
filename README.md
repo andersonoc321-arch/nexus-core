@@ -1,0 +1,2 @@
+# nexus-core
+Minha IA
